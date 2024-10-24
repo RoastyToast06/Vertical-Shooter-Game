@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\aiden\\OneDrive\\Documents\\Code Projects\\COIS-2020-Assignment3\\A3-Program\\A3-Program.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\aiden\\OneDrive\\Documents\\Code Projects\\COIS-2020-Assignment3\\A3-DataStructures\\A3-DataStructures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\aiden\\OneDrive\\Documents\\Code Projects\\COIS-2020-Assignment3\\A3-DataStructures\\A3-DataStructures.csproj",
+        "projectName": "A3-DataStructures",
+        "projectPath": "c:\\Users\\aiden\\OneDrive\\Documents\\Code Projects\\COIS-2020-Assignment3\\A3-DataStructures\\A3-DataStructures.csproj",
+        "packagesPath": "C:\\Users\\aiden\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\aiden\\OneDrive\\Documents\\Code Projects\\COIS-2020-Assignment3\\A3-DataStructures\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aiden\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\aiden\\OneDrive\\Documents\\Code Projects\\COIS-2020-Assignment3\\A3-Program\\A3-Program.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\aiden\\OneDrive\\Documents\\Code Projects\\COIS-2020-Assignment3\\A3-Program\\A3-Program.csproj",
+        "projectName": "A3-Program",
+        "projectPath": "c:\\Users\\aiden\\OneDrive\\Documents\\Code Projects\\COIS-2020-Assignment3\\A3-Program\\A3-Program.csproj",
+        "packagesPath": "C:\\Users\\aiden\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\aiden\\OneDrive\\Documents\\Code Projects\\COIS-2020-Assignment3\\A3-Program\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aiden\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\aiden\\OneDrive\\Documents\\Code Projects\\COIS-2020-Assignment3\\A3-DataStructures\\A3-DataStructures.csproj": {
+                "projectPath": "c:\\Users\\aiden\\OneDrive\\Documents\\Code Projects\\COIS-2020-Assignment3\\A3-DataStructures\\A3-DataStructures.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "TrentCOIS.Tools.Visualization.Framework": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
