@@ -1,5 +1,5 @@
 # Vertical-Shooter-Game
-Designed for my Data Structures & Algorithms course, this game features wizards casting magical spells against the goblins.
+Designed for my Data Structures & Algorithms course, this game features wizards casting magical spells against the goblins in a vertical shooter style!
 
 ## Project Details
 My teaching assistant designed the renderer and visuals, but I programmed the project in C#. This game incorporates doubly linked lists and queues to manage the wizard team and goblin line. 
